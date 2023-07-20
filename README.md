@@ -22,7 +22,7 @@ I want to gather more and more expertise and experience.
 
 - [Twitter](https://twitter.com/SourjyaSarkar25)
 - [Instagram](https://www.instagram.com/sourjya.sarkar/)
-- [Email](sourjyas.work@gmail.com)
+- [Email](mailto:sourjyas.work@gmail.com)
 
 <!--
 **OrientsVictor/OrientsVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
