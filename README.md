@@ -15,7 +15,7 @@
 
 ## 👯 I’m looking to collaborate on ...
 
-Almost anything. :)
+Almost anything. :) <br>
 I want to gather more and more expertise and experience.
 
 ## 📫 How to reach me: ...
