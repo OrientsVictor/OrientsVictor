@@ -4,7 +4,6 @@
 
 - Completing [CS50w](https://cs50.harvard.edu/web/2020/)
 - Contributing to open source as a newbie
-- Working on a startup of my own
 
 ## 🌱 I’m currently learning ...
 
